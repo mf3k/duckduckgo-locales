@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DuckDuckGo-Translation-0.000\n"
 "POT-Creation-Date: 2019-01-16 23:42-0500\n"
-"PO-Revision-Date: 2019-10-29 09:22+0000\n"
+"PO-Revision-Date: 2019-11-03 23:25+0000\n"
 "Last-Translator: fr3aky <mf3k.wd@gmail.com>\n"
 "Language-Team: DuckDuckGo Community <community@duckduckgo.com>\n"
 "Language: pt_PT\n"
@@ -2553,11 +2553,11 @@ msgstr "Abrir %sDefinições%s"
 
 msgctxt "maps_places"
 msgid "Open 24 hours"
-msgstr ""
+msgstr "Aberto 24 horas"
 
 msgctxt "settings"
 msgid "Open Directions in..."
-msgstr ""
+msgstr "Abrir Indicações em…"
 
 msgctxt "maps_places"
 msgid "Open Expanded Map"
@@ -3004,7 +3004,7 @@ msgstr "Região:"
 
 msgctxt "maps_places"
 msgid "Regular Hours Today"
-msgstr ""
+msgstr "Horário Normal Hoje"
 
 msgid "Related Topics"
 msgstr "Tópicos relacionados"
@@ -3402,11 +3402,11 @@ msgstr "Enviar"
 
 msgctxt "feedback form"
 msgid "Send feedback"
-msgstr "Enviar comentário"
+msgstr "Enviar opinião"
 
 msgctxt "feedback form"
 msgid "Send feedback for this result:"
-msgstr ""
+msgstr "Envie-nos a sua opinião para este resultado:"
 
 msgctxt "feedback form"
 msgid "Send feedback for:"
@@ -4604,9 +4604,9 @@ msgid ""
 "Your passphrase is used to generate a key using the Secure Hash Algorithm "
 "known as %sSHA-2%s, using a 512 bit key."
 msgstr ""
-"A sua palavra-passe é usada para gerar uma chave, utilizando o Algoritmo de "
-"Dispersão Segura, conhecido como %sSHA-2%s, por utilizar uma chave de 512 "
-"bits."
+"A sua palavra-passe é usada para gerar uma frase-chave, utilizando o "
+"Algoritmo de Dispersão Segura, conhecido como %sSHA-2%s, usando uma chave de "
+"512 bits."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/xwcnjZL.png
@@ -4615,7 +4615,7 @@ msgid ""
 "Your passphrase never leaves the browser, only the key and the settings file "
 "associated with it."
 msgstr ""
-"A tua passphrase nunca saí do browser, apenas a chave e o ficheiro de "
+"A sua frase-chave nunca sai do browser, apenas a chave e o ficheiro de "
 "definições associados com a mesma."
 
 msgctxt "new user poll"
@@ -4624,7 +4624,7 @@ msgstr "A tua resposta é 100% anónima."
 
 #. From the guide in the Feedback page.
 msgid "advertising"
-msgstr "anúncio"
+msgstr "publicidade"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback
 msgid "browsers"
@@ -4681,11 +4681,11 @@ msgstr "opcional"
 msgid ""
 "or write out the color code you want, e.g. %s (%s is an encoded %s char)."
 msgstr ""
-"ou escreve o código de côr que pretendes, p.e. %s (%s é %s char codificado)"
+"ou escreve o código de cor que pretende, p.e. %s (%s é %s char codificado)"
 
 #. in https://duckduckgo.com/params under "Look & Feel Settings" under both "Link font: " and "Link font: "
 msgid "or write out the font you want"
-msgstr "ou escreve o tipo de letra que pretendes"
+msgstr "ou escreve o tipo de letra que pretende"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "permanently"
