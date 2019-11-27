@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s %s-ért."
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -110,6 +115,11 @@ msgctxt "published dates for organic results"
 msgid "1 day ago"
 msgstr ""
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
+msgstr ""
+
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
 msgstr "1. Nyisd meg a %sLetöltések%s-et"
@@ -140,8 +150,10 @@ msgctxt "static_page"
 msgid "About"
 msgstr "További információ"
 
+#  Marked fuzzy because of translated trademark
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
+#, fuzzy
 msgid "About DuckDuckGo"
 msgstr "A DuckDuckGóról"
 
@@ -1386,6 +1398,8 @@ msgstr ""
 "Keresd meg a %sDuckDuckGo%s-t és kattints a %sBeállítás alapértelmezettként"
 "%s-re"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
 msgstr ""
 "Keresse meg a DuckDuckGót a listában és kattintson a %sBeállítás "
@@ -1764,6 +1778,8 @@ msgstr ""
 "A böngészőben ezután kiválasztunk négy vagy öt szót véletlenszerűen a "
 "listáról, meggyőződve arról, hogy legalább 18-20 karakter hosszúak."
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "In the drop down select %sDuckDuckGo%s!"
 msgstr "A lenyílóban válaszd a %sDuckDuckGót%s!"
 
@@ -2345,8 +2361,10 @@ msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
 msgstr "Új vagy a DuckDuckGo-n?"
 
+#  Marked fuzzy because of translated trademark
 #. For rotating carousel on the home page.
 #. "Take a Tour" will link to /tour page
+#, fuzzy
 msgctxt "frontpage"
 msgid "New to DuckDuckGo? %sTake a Tour.%s"
 msgstr "Most jársz itt először? %sNézz körül!%s"
@@ -2552,6 +2570,8 @@ msgctxt "mobile homepage banner"
 msgid "Open %sMenu%s"
 msgstr "Nyisd meg a %sMenü%s-t"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Open %sSettings > Safari > Search Engine%s and select DuckDuckGo!"
 msgstr ""
 "Nyissa meg a %sBeállítások > Safari > Kereső%s opciót és válassza a "
@@ -3329,6 +3349,8 @@ msgstr ""
 "Válaszd ki a %sDuckDuckGo%s-t, majd kattint a %sBeállítás alapértelmezettként"
 "%s lehetőségre"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
 msgstr "Válassza a %sDuckDuckGót%s az alapértelmezett kereső listában"
 
@@ -3400,6 +3422,8 @@ msgstr ""
 "Válassza a %sEzen weboldal használata az egyedüli kezdőoldalként%s "
 "lehetőséget"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Select DuckDuckGo!"
 msgstr "Válassza a DuckDuckGót!"
 
@@ -4065,6 +4089,12 @@ msgstr "URL paraméterek"
 msgid "URLs:"
 msgstr "URL-ek:"
 
+msgid "US (English)"
+msgstr "Egyesült Államok"
+
+msgid "US (Spanish)"
+msgstr "Egyesült Államok (spanyol)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Amerikai mértékegységek (font,láb, Fahrenheit)"
@@ -4132,12 +4162,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Egyesült Királyság"
-
-msgid "United States"
-msgstr "Egyesült Államok"
-
-msgid "United States (es)"
-msgstr "Egyesült Államok (spanyol)"
 
 msgctxt "settings"
 msgid "Units of Measure"

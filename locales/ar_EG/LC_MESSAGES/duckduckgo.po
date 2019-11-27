@@ -42,6 +42,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s أي %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -111,6 +116,11 @@ msgctxt "published dates for organic results"
 msgid "1 day ago"
 msgstr ""
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
+msgstr ""
+
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
 msgstr ""
@@ -141,8 +151,10 @@ msgctxt "static_page"
 msgid "About"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
+#, fuzzy
 msgid "About DuckDuckGo"
 msgstr "عن دك دك غو"
 
@@ -267,8 +279,10 @@ msgctxt "homepage onboarding"
 msgid "Already a fan?"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. For rotating carousel on the home page.
 #. "Help Spread DuckDuckGo!" links to /spread page
+#, fuzzy
 msgctxt "frontpage"
 msgid "Already a fan? %sHelp Spread DuckDuckGo!%s"
 msgstr "هل أنت من المعجبين؟ %sساعد لنشر داك داك غو%s"
@@ -281,7 +295,9 @@ msgstr ""
 msgid "Alternatives"
 msgstr "بدائل"
 
+#  Marked fuzzy because of translated trademark
 #. http://i.imgur.com/89c3nJI.png
+#, fuzzy
 msgctxt "settingsvalue"
 msgid "Always play on DuckDuckGo"
 msgstr "تشغيل الفيديو بشكل دائم في محرك البحث"
@@ -551,7 +567,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "إلغاء"
 
+#  Marked fuzzy because of translated trademark
 #. in https://duckduckgo.com/feedback under "Community Platform" header
+#, fuzzy
 msgid "Care to help translate DuckDuckGo into your language?"
 msgstr "هل ترغب بالمساعدة في ترجمة دك دك غو إلى لغتك؟"
 
@@ -1071,8 +1089,10 @@ msgstr ""
 msgid "Dictionary"
 msgstr "قاموس"
 
+#  Marked fuzzy because of translated trademark
 #. For rotating carousel on the home page.
 #. "customize" will link to the /settings page.
+#, fuzzy
 msgctxt "frontpage"
 msgid "Did you know you can %scustomize%s DuckDuckGo?"
 msgstr "هل تعلم أنك تستطيع %sتغيير%s داك داك غو؟"
@@ -1156,52 +1176,74 @@ msgstr "مشروبات"
 msgid "Duck it"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
+#, fuzzy
 msgid "DuckDuckGo Bot"
 msgstr "بوت دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. This is the title for the <a href="https://duckduckgo.com/feedback.html">feedback page</a>, used in the title bar of your browser and the title of your tabs.
+#, fuzzy
 msgid "DuckDuckGo Feedback"
 msgstr "رأي في دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. by opening https://duckduckgo.com/api it shows in the window title
+#, fuzzy
 msgid "DuckDuckGo Instant Answer API"
 msgstr "الاجابات الفورية من دك دك غو API"
 
+#  Marked fuzzy because of translated trademark
 #. by opening https://duckduckgo.com/newbang it shows in the window title
+#, fuzzy
 msgid "DuckDuckGo New !Bang"
 msgstr "!بانغ جديد لدك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/privacy.html">privacy page</a>.
+#, fuzzy
 msgid "DuckDuckGo Privacy"
 msgstr "خصوصية دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
+#, fuzzy
 msgid "DuckDuckGo Search Box"
 msgstr "صندوق بحث دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/settings.html">settings page</a>.
+#, fuzzy
 msgid "DuckDuckGo Settings"
 msgstr "إعدادات دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Link to the settings help in support center from the cloud save section.
 #. You have to click the "What is this?" link to display the link (that is contained on the bottom of a huge paragraph).
+#, fuzzy
 msgid "DuckDuckGo Support Center"
 msgstr "مركز دعم دك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Displayed into your browser's title bar, tab's title, when you visit the <a href="https://duckduckgo.com/params.html">params page</a>.
 #. Bonus : also available through the <head><title>HERE</title></head> tag.
+#, fuzzy
 msgid "DuckDuckGo URL Parameters"
 msgstr "وسائط URL لدك دك غو"
 
+#  Marked fuzzy because of translated trademark
 #. Stuff about how your password is stored and secured.
 #. Into "How does it work" paragraph of <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
+#, fuzzy
 msgctxt "cloudsave"
 msgid "DuckDuckGo does not ever know your passphrase."
 msgstr "لا يعلم دك دك غو أبداً عن عبارتك السرية."
 
+#  Marked fuzzy because of translated trademark
 #. Used as a link to your personal settings  into the sentence <em>You can change *DuckDuckGo settings* via URL parameters by adding them after the search query</em>. See the <a href="https://duckduckgo.com/params.html">params page</a>.
+#, fuzzy
 msgid "DuckDuckGo settings"
 msgstr "إعدادات دك دك غو"
 
@@ -1209,9 +1251,11 @@ msgctxt "forecast"
 msgid "E"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. Stuff explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
 #. You have to click the "What is this?" link to display it.
+#, fuzzy
 msgctxt "cloudsave"
 msgid ""
 "Each time you ask for a passphrase suggestion, we get a reasonably large "
@@ -1672,14 +1716,18 @@ msgid ""
 "%sOther Search Engines%s"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. http://i.imgur.com/ReKkJtU.png
+#, fuzzy
 msgctxt "settings"
 msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
 msgstr "إذا كنت لا تزال ترغب في تقديم الدعم لنا, %sساعدنا لنشر دك دك جو%s"
 
+#  Marked fuzzy because of translated trademark
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
 #. Message displayed at the bottom of the page, informing you that you can't use the settings page without Java Script activated into your browser. <em>%s</em> and <em>%s</em> are respectively for (raw) <em>HTML</em> and <em>lite</em> versions.
 #.
+#, fuzzy
 msgid ""
 "If you want to use DuckDuckGo without JavaScript, please use our %s or %s "
 "versions."
@@ -2304,8 +2352,10 @@ msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. For rotating carousel on the home page.
 #. "Take a Tour" will link to /tour page
+#, fuzzy
 msgctxt "frontpage"
 msgid "New to DuckDuckGo? %sTake a Tour.%s"
 msgstr "أجديد على داك داك غو؟ %sقم بجولة%s"
@@ -3180,6 +3230,8 @@ msgctxt "vertical_map"
 msgid "Search Current Map Area"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Search DuckDuckGo"
 msgstr "ابحث في دك دك غو"
 
@@ -3328,6 +3380,8 @@ msgid ""
 "options if you prefer)"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Select DuckDuckGo!"
 msgstr "اختر داك داك جو!"
 
@@ -3980,6 +4034,12 @@ msgstr "وسائط URL"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "معتمد على نظام الولايات المتحدة (الباوند والقدم والفهرنهايت)"
@@ -4033,12 +4093,6 @@ msgid "Unicode"
 msgstr "يونيكود"
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "United States"
-msgstr ""
-
-msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

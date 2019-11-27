@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s για %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -108,6 +113,11 @@ msgstr "%sΚάντε δεξί κλικ%s στο πλαίσιο αναζήτησ�
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -2363,7 +2373,7 @@ msgstr "Νέος περιηγητής ή υπολογιστής"
 
 msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
-msgstr "Καινούργιος/α στο Duck Duck Go;"
+msgstr "Καινούργιος/α στο DuckDuckGo;"
 
 #. For rotating carousel on the home page.
 #. "Take a Tour" will link to /tour page
@@ -4077,7 +4087,7 @@ msgid "Twitter"
 msgstr ""
 
 msgid "Type %sDuckDuckGo%s in the first %sform field"
-msgstr "Πληκτρολογήστε %sDuckduckgo%s στο πρώτο πεδίο της %sφόρμας"
+msgstr "Πληκτρολογήστε %sDuckDuckGo%s στο πρώτο πεδίο της %sφόρμας"
 
 msgid "Type %sduckduckgo.com%s in the %ssecond form field"
 msgstr "Πληκτρολογήστε %sduckduckgo.com%s στο %sδεύτερο πεδίο της φόρμας"
@@ -4091,6 +4101,12 @@ msgstr "Παράμετροι URL"
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "URLs:"
 msgstr ""
+
+msgid "US (English)"
+msgstr "Ηνωμένες Πολιτείες"
+
+msgid "US (Spanish)"
+msgstr "Ηνωμένες Πολιτείες (Ισπ)"
 
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
@@ -4159,12 +4175,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Ηνωμένο Βασίλειο"
-
-msgid "United States"
-msgstr "Ηνωμένες Πολιτείες"
-
-msgid "United States (es)"
-msgstr "Ηνωμένες Πολιτείες (Ισπ)"
 
 msgctxt "settings"
 msgid "Units of Measure"

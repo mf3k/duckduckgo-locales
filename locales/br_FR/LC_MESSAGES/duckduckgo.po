@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s evit %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -108,6 +113,11 @@ msgstr ""
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -1752,7 +1762,7 @@ msgstr ""
 "da vihanañ 18-20 arouezenn."
 
 msgid "In the drop down select %sDuckDuckGo%s!"
-msgstr "Diwar al lañser dibunañ, diuzit %sDuckuckGo%s !"
+msgstr "Diwar al lañser dibunañ, diuzit %sDuckDuckGo%s !"
 
 #. Explanations for <em>how does the settings cloud save works</em> paragraph.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -4022,6 +4032,12 @@ msgstr "Arventennoù an URL"
 msgid "URLs:"
 msgstr "URLioù :"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "diazezet war ar Stadoù Unanet (Levrioù, Treid, Fahrenheit)"
@@ -4082,12 +4098,6 @@ msgid "Unicode"
 msgstr ""
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "United States"
-msgstr ""
-
-msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

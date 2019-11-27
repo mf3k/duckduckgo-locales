@@ -42,6 +42,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s ل%s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -111,6 +116,11 @@ msgctxt "published dates for organic results"
 msgid "1 day ago"
 msgstr ""
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
+msgstr ""
+
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
 msgstr "1. أفتح %s التنزيلات%s"
@@ -141,8 +151,10 @@ msgctxt "static_page"
 msgid "About"
 msgstr "حول "
 
+#  Marked fuzzy because of translated trademark
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
+#, fuzzy
 msgid "About DuckDuckGo"
 msgstr "عن دوك دوك جو"
 
@@ -180,6 +192,8 @@ msgstr "أضف DuckDuckGo"
 msgid "Add DuckDuckGo as a search engine"
 msgstr "أضف DuckDuckGo كمحرك بحث "
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Add DuckDuckGo to %s"
 msgstr "اضف دوك دوك جو الى %s"
 
@@ -294,7 +308,9 @@ msgstr "صورة متحركة"
 msgid "Answer"
 msgstr "جواب"
 
+#  Marked fuzzy because of translated trademark
 #. In feedback page, first box. https://duckduckgo.com/feedback 
+#, fuzzy
 msgid "Answers to most DuckDuckGo questions, like:"
 msgstr "أجوبة لأكثر الأسئلة شيوعا , مثل : "
 
@@ -550,7 +566,9 @@ msgstr "كندا (اللغة الفرنسية)"
 msgid "Cancel"
 msgstr "إلغاء"
 
+#  Marked fuzzy because of translated trademark
 #. in https://duckduckgo.com/feedback under "Community Platform" header
+#, fuzzy
 msgid "Care to help translate DuckDuckGo into your language?"
 msgstr "تحب ان تترجم دك دك جو إلى لغتك؟"
 
@@ -1163,7 +1181,9 @@ msgstr "ابحث في دوك"
 msgid "DuckDuckGo Bot"
 msgstr "عناكب DuckDuckGo"
 
+#  Marked fuzzy because of translated trademark
 #. This is the title for the <a href="https://duckduckgo.com/feedback.html">feedback page</a>, used in the title bar of your browser and the title of your tabs.
+#, fuzzy
 msgid "DuckDuckGo Feedback"
 msgstr "تعليقات لدك دك جو"
 
@@ -1171,7 +1191,9 @@ msgstr "تعليقات لدك دك جو"
 msgid "DuckDuckGo Instant Answer API"
 msgstr "واجهة تطبيقات الإجابات الفورية ل DuckDuckGo ( API) "
 
+#  Marked fuzzy because of translated trademark
 #. by opening https://duckduckgo.com/newbang it shows in the window title
+#, fuzzy
 msgid "DuckDuckGo New !Bang"
 msgstr "دوك دوك جو جديد ال !بانج "
 
@@ -1183,7 +1205,9 @@ msgstr "خصوصية DuckDuckGo"
 msgid "DuckDuckGo Search Box"
 msgstr "مربع البحث لـ DuckDuckGo"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/settings.html">settings page</a>.
+#, fuzzy
 msgid "DuckDuckGo Settings"
 msgstr "الاعدادات لدك دك جو"
 
@@ -1268,7 +1292,9 @@ msgctxt "settings"
 msgid "Enter a pass phrase"
 msgstr "أدخل كلمة مرور"
 
+#  Marked fuzzy because of translated trademark
 #. Alias=pseudônimo: pt_pt
+#, fuzzy
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
@@ -1791,6 +1817,8 @@ msgstr ""
 msgid "Install"
 msgstr "تثبيت"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "homepage onboarding"
 msgid "Install DuckDuckGo"
 msgstr "ثبت دوك دوك جو"
@@ -2308,6 +2336,8 @@ msgctxt "new user poll"
 msgid "New browser or computer"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
 msgstr "جديد في دكدكجو؟"
@@ -2316,7 +2346,7 @@ msgstr "جديد في دكدكجو؟"
 #. "Take a Tour" will link to /tour page
 msgctxt "frontpage"
 msgid "New to DuckDuckGo? %sTake a Tour.%s"
-msgstr "جديد بالنسبة ل DuckDuckGO ؟ %s خذ جولة . %s"
+msgstr "جديد بالنسبة ل DuckDuckGo ؟ %s خذ جولة . %s"
 
 #. Used in the !bang dropdown menu.
 msgid "News"
@@ -2503,6 +2533,8 @@ msgid ""
 "Parameters%s page."
 msgstr "فقد الإعدادات التي قمت بتعديلها . ستظهر في صفحة %s علامات الروابط %s."
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "افتح %sالقائمة > الاعدادات > ابحث %s وأختر دوك دوك جو!"
 
@@ -3276,6 +3308,8 @@ msgstr "اختر %sDuckDuckGo%s و اضغط %sأضف كافتراضي%s!"
 msgid "Select %sDuckDuckGo%s and click %sSet as default%s"
 msgstr "اضغط %sDuckDuckGo%s و اضغط %sاختر كافتراضي%s "
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
 msgstr "اختر %s دوك دوك قو %s في القائمة المنسدلة لمحرك البحث الرئيسي "
 
@@ -3716,10 +3750,14 @@ msgstr "السويد"
 msgid "Switch to %s"
 msgstr "التبديل إلى %s"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo"
 msgstr "انتقل الى دوك دوك جو"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo and take back your privacy!"
 msgstr "تحول إلى دوك دوك غو و خد حريتك"
@@ -3997,6 +4035,12 @@ msgstr "علامات الروابط"
 msgid "URLs:"
 msgstr "http://www.DuckDuckgo.coom"
 
+msgid "US (English)"
+msgstr "امريكا"
+
+msgid "US (Spanish)"
+msgstr "امريكا (اللغة الاسبانية)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "وحدات أمريكية (رطل, قدم, فهرينهايت)"
@@ -4055,12 +4099,6 @@ msgstr "ترميز Unicode"
 
 msgid "United Kingdom"
 msgstr "المملكة المتحدة"
-
-msgid "United States"
-msgstr "امريكا"
-
-msgid "United States (es)"
-msgstr "امريكا (اللغة الاسبانية)"
 
 msgctxt "settings"
 msgid "Units of Measure"
@@ -4336,6 +4374,8 @@ msgstr "ماهو تخزين المفضلة السحابي وكيف يختلف ع
 msgid "What is this?"
 msgstr "ما هذا؟"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "new user poll"
 msgid "What led you to DuckDuckGo?"
 msgstr "ما الذي قادك إلى دكدكجو؟"

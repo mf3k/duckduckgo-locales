@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s pour %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -108,6 +113,11 @@ msgstr "%sClic droit%s dans la barre de recherche"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -1194,7 +1204,9 @@ msgstr "API des réponses instantanées de DuckDuckGo"
 msgid "DuckDuckGo New !Bang"
 msgstr "Nouveau !Bang pour DuckDuckGo"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/privacy.html">privacy page</a>.
+#, fuzzy
 msgid "DuckDuckGo Privacy"
 msgstr "Confidentialité"
 
@@ -1292,7 +1304,7 @@ msgstr "Entrez une phrase secrète"
 msgid ""
 "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
 msgstr ""
-"Complétez les informations suivantes:%sNOM%s: DuckDuckGO%s URL%s: %s Alias"
+"Complétez les informations suivantes:%sNOM%s: DuckDuckGo%s URL%s: %s Alias"
 "%s: d%s"
 
 msgctxt "email newsletter"
@@ -3415,7 +3427,7 @@ msgid "Select your specific feedback"
 msgstr ""
 
 msgid "Selected %sDuckDuckGo%s"
-msgstr "Selektid %sDuckDuckGaoooo%s"
+msgstr "Selektid %sDuckDuckGo%s"
 
 #. "Send" button for feedback form.
 msgid "Send"
@@ -4071,6 +4083,12 @@ msgstr "Paramètres de l'URL"
 msgid "URLs:"
 msgstr "Liens :"
 
+msgid "US (English)"
+msgstr "États-Unis"
+
+msgid "US (Spanish)"
+msgstr "États-Unis (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Mesure américaine (Livres, pied, degré Fahrenheit)"
@@ -4134,12 +4152,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Royaume-Uni"
-
-msgid "United States"
-msgstr "États-Unis"
-
-msgid "United States (es)"
-msgstr "États-Unis (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s అంటే %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr "%s విరాళాలు గోప్యతకై"
@@ -90,10 +95,14 @@ msgid ""
 "search."
 msgstr "ఫలితాలు ఉన్నాయి అని భావిస్తున్నారా, మరొక్కసారి ప్రయత్నిచటానికి %sClick here%s"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
 msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
 msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
@@ -108,6 +117,11 @@ msgstr "సెర్చ్ బార్ లో %sRight click%s చెయ్య�
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -267,8 +281,10 @@ msgctxt "homepage onboarding"
 msgid "Already a fan?"
 msgstr "ముందుగానే మా అభిమాన ?"
 
+#  Marked fuzzy because of translated trademark
 #. For rotating carousel on the home page.
 #. "Help Spread DuckDuckGo!" links to /spread page
+#, fuzzy
 msgctxt "frontpage"
 msgid "Already a fan? %sHelp Spread DuckDuckGo!%s"
 msgstr "ముందుగానే మా అభిమాన ? %sHelp Spread DuckDuckGo!%s"
@@ -281,7 +297,9 @@ msgstr "గోప్యత తో అన్వేషించండి మీ �
 msgid "Alternatives"
 msgstr "ప్రత్యామ్నాయాలు"
 
+#  Marked fuzzy because of translated trademark
 #. http://i.imgur.com/89c3nJI.png
+#, fuzzy
 msgctxt "settingsvalue"
 msgid "Always play on DuckDuckGo"
 msgstr "ఎల్లప్పుడూ డక్‌డక్‌గో లోనే చూపించు"
@@ -1176,7 +1194,9 @@ msgstr "DuckDuckGo కొత్త !బ్యాంగ్"
 msgid "DuckDuckGo Privacy"
 msgstr "DuckDuckGo గోప్యత"
 
+#  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
+#, fuzzy
 msgid "DuckDuckGo Search Box"
 msgstr "డక్‌డక్‌గో వెతుకుడు పెట్టె"
 
@@ -1209,9 +1229,11 @@ msgctxt "forecast"
 msgid "E"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. Stuff explaining <em>how does passphrase generation work</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
 #. You have to click the "What is this?" link to display it.
+#, fuzzy
 msgctxt "cloudsave"
 msgid ""
 "Each time you ask for a passphrase suggestion, we get a reasonably large "
@@ -1670,7 +1692,9 @@ msgid ""
 "%sOther Search Engines%s"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
 #. http://i.imgur.com/ReKkJtU.png
+#, fuzzy
 msgctxt "settings"
 msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
 msgstr "మీరు మాకు ఇంకా తోడ్పడాలనుకుంటే, %sడక్‌డక్‌గోని ప్రచారం చేయడంలో సహాయపడండి%s"
@@ -2230,7 +2254,9 @@ msgctxt "video-duration"
 msgid "More than 20 minutes"
 msgstr "20 నిమిషాల పైన"
 
+#  Marked fuzzy because of translated trademark
 #. e.g. More ways to add DuckDuckGo to Firefox
+#, fuzzy
 msgctxt "frontpage"
 msgid "More ways to add DuckDuckGo to %s"
 msgstr "%s కు డక్​డక్​గోని జోడించుటకు మరిన్ని మార్గాలు"
@@ -2294,6 +2320,8 @@ msgctxt "new user poll"
 msgid "New browser or computer"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "new user poll"
 msgid "New to DuckDuckGo?"
 msgstr "డక్‌డక్‌గోకి కొత్తా?"
@@ -3172,6 +3200,8 @@ msgctxt "vertical_map"
 msgid "Search Current Map Area"
 msgstr ""
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgid "Search DuckDuckGo"
 msgstr "డక్‌డక్‌గోలో వెతకండి"
 
@@ -3970,6 +4000,12 @@ msgstr "యూఆర్ఎల్ పరామితులు"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "యునైటెడ్ స్టేట్స్"
+
+msgid "US (Spanish)"
+msgstr "యునైటెడ్ స్టేట్స్ (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "అమెరికా వారికి (పౌండ్లు, అడుగులు, ఫారెన్‌హీట్)"
@@ -4024,12 +4060,6 @@ msgstr "యూనీకోడు"
 
 msgid "United Kingdom"
 msgstr "యునైటెడ్ కింగ్‌డమ్"
-
-msgid "United States"
-msgstr "యునైటెడ్ స్టేట్స్"
-
-msgid "United States (es)"
-msgstr "యునైటెడ్ స్టేట్స్ (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"
@@ -4251,6 +4281,8 @@ msgid ""
 "We save the settings file on Amazon S3 using the generated key as the name."
 msgstr "మీ సొంత అమరికలను ఆ విధంగా సృష్టించబడ్డ కీ ను పేరుగా ఉపయోగించి అమెజాన్ ఎస్3 లో భద్రపరుస్తాము."
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
 msgstr "ఇటువంటి ప్రతిస్పందనను డక్ డక్ గో ని అభివృద్ధి చేయటానికి ఉపయోగిస్తాం. ఇది చాల ఉపయోగపడుతుంది."
@@ -4313,6 +4345,8 @@ msgstr "క్లౌడ్ సేవ్ బుక్ మార్క్ ఏమ�
 msgid "What is this?"
 msgstr "ఇది ఏమిటి?"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "new user poll"
 msgid "What led you to DuckDuckGo?"
 msgstr "మీరు డక్ డక్ గో కి రావటానికి గల కారణం ?"
@@ -4426,6 +4460,8 @@ msgstr ""
 "ఇప్పుడు మీ దగ్గర మీ అంతర్జాల పాదముద్రలను తుడిచివేయటానికి మరియు గోప్యతను వెనక్కి తెచుకోవటానికి "
 "ఆయుధములు ఉన్నాయ్ !"
 
+#  Marked fuzzy because of translated trademark
+#, fuzzy
 msgctxt "SERP footer content"
 msgid "You're in control. Customize the look-and-feel of DuckDuckGo."
 msgstr "ఇప్పుడు మీరు నియంత్రణ లో ఉన్నారు. డక్ డక్ గో యొక్క వేషాకృతులను మీకు తగినట్టుగా మార్చుకోండి."

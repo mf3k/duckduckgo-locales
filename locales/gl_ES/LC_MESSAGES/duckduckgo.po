@@ -43,6 +43,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s para %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr "%s en doazóns á privacidade!"
@@ -115,6 +120,11 @@ msgstr "%sClic dereito%s na barra de buscas"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -1495,7 +1505,7 @@ msgstr "Obteña esta canción en:"
 msgctxt "SERP footer content"
 msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
 msgstr ""
-"Chegue máis rápido ao DuckDuckgo. Comparta duck.com coas súas amizades."
+"Chegue máis rápido ao DuckDuckGo. Comparta duck.com coas súas amizades."
 
 msgctxt "spread_badge"
 msgid "Get your friends to switch and help us grow!"
@@ -1994,7 +2004,7 @@ msgstr "Saiba o que son os Bangs"
 
 msgctxt "SERP footer content"
 msgid "Learn About DuckDuckGo"
-msgstr "Saiba máis sobre DuckDuckgo"
+msgstr "Saiba máis sobre DuckDuckGo"
 
 msgctxt "showcase_bangs"
 msgid "Learn about Bangs"
@@ -3453,7 +3463,7 @@ msgstr "Preferencias en formato JSON:"
 msgctxt "homepage onboarding"
 msgid "Share DuckDuckGo and help friends take their privacy back!"
 msgstr ""
-"Comparta DuckDuckgo e axuda as súas amizades a recuperar a súa privacidade!"
+"Comparta DuckDuckGo e axuda as súas amizades a recuperar a súa privacidade!"
 
 #. in https://duckduckgo.com/newbang under "Bang category " inside the drop-menu
 msgid "Shopping"
@@ -4074,6 +4084,12 @@ msgstr "Parámetros de URL"
 msgid "URLs:"
 msgstr "URL:"
 
+msgid "US (English)"
+msgstr "Estados Unidos"
+
+msgid "US (Spanish)"
+msgstr "Estados Unidos (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Sistema americano (Libras, Pés, Fahrenheit)"
@@ -4133,12 +4149,6 @@ msgstr "Unicode"
 
 msgid "United Kingdom"
 msgstr "Reino Unido"
-
-msgid "United States"
-msgstr "Estados Unidos"
-
-msgid "United States (es)"
-msgstr "Estados Unidos (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"
@@ -4585,7 +4595,7 @@ msgid ""
 "Your browser provides the list of most-visited sites. DuckDuckGo never has "
 "access to this data."
 msgstr ""
-"O seu navegador fornece a lista de sitios máis visitados. DucDuckGo nunca "
+"O seu navegador fornece a lista de sitios máis visitados. DuckDuckGo nunca "
 "ten acceso a estes datos."
 
 msgctxt "homepage ATB modal"

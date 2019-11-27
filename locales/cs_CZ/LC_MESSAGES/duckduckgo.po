@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s pro %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr "%s darovaných na soukromí!"
@@ -108,6 +113,11 @@ msgstr "%sKlepněte pravým tlačítkem%s do vyhledávacího pole"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -3992,7 +4002,7 @@ msgstr "Zkuste: %s"
 
 msgctxt "new user poll"
 msgid "Trying DuckDuckGo again"
-msgstr "Znovu zkouším DucDuckGo"
+msgstr "Znovu zkouším DuckDuckGo"
 
 msgid "Turkey"
 msgstr "Turecko"
@@ -4022,6 +4032,12 @@ msgstr "Parametry URL adresy"
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "URLs:"
 msgstr "URL adresy"
+
+msgid "US (English)"
+msgstr "Spojené státy"
+
+msgid "US (Spanish)"
+msgstr "Spojené státy (es)"
 
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
@@ -4083,12 +4099,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Spojené království"
-
-msgid "United States"
-msgstr "Spojené státy"
-
-msgid "United States (es)"
-msgstr "Spojené státy (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

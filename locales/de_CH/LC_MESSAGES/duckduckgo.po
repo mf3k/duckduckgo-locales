@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s für %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr "%s an Privatsphärenspenden"
@@ -110,6 +115,11 @@ msgstr "%sRechts klick%s im Suchfeld"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -758,7 +768,7 @@ msgid "Click %sHere%s to add us as a search engine"
 msgstr "Klicke %shier%s um uns zu deiner Suchmaschine zu machen"
 
 msgid "Click %sHere%s to download the DuckDuckGo extension"
-msgstr "Klicke %shier%s um die DucDuckGo Erweiterung herunterzuladen"
+msgstr "Klicke %shier%s um die DuckDuckGo Erweiterung herunterzuladen"
 
 msgid ""
 "Click %sOK%s in the popup. %sNOTE%s: If OK button is disabled, it was "
@@ -4072,6 +4082,12 @@ msgstr "URL Parameter"
 msgid "URLs:"
 msgstr "URLs:"
 
+msgid "US (English)"
+msgstr "Vereinigte Staaten"
+
+msgid "US (Spanish)"
+msgstr "Vereinigte Staaten (ES)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "amerikanisch (Pfund, Fuss, Fahrenheit)"
@@ -4135,12 +4151,6 @@ msgstr " Unicode "
 
 msgid "United Kingdom"
 msgstr "Vereinigtes Königreich"
-
-msgid "United States"
-msgstr "Vereinigte Staaten"
-
-msgid "United States (es)"
-msgstr "Vereinigte Staaten (ES)"
 
 msgctxt "settings"
 msgid "Units of Measure"

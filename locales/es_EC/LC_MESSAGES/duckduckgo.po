@@ -41,6 +41,11 @@ msgstr ""
 msgid "%s for %s"
 msgstr "%s para %s"
 
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s hours ago"
+msgstr ""
+
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
 msgstr ""
@@ -108,6 +113,11 @@ msgstr ""
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 hour ago"
 msgstr ""
 
 msgctxt "install-extension"
@@ -1226,7 +1236,7 @@ msgid ""
 msgstr ""
 "Cada vez que pregunte por una sugerencia de contraseña, nosotros tendremos "
 "una lista razonablemente larga de palabras aleatorias desde los servidores "
-"de DuckDuckkGo."
+"de DuckDuckGo."
 
 #. Form field for your email ;)
 #. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>. 
@@ -4009,6 +4019,12 @@ msgstr "Parámetros URL"
 msgid "URLs:"
 msgstr "URLs:"
 
+msgid "US (English)"
+msgstr "Estados Unidos"
+
+msgid "US (Spanish)"
+msgstr "Estados Unidos (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Medidas de EEUU (Libras, Pies, Fahrenheit)"
@@ -4066,12 +4082,6 @@ msgstr "Unicode"
 
 msgid "United Kingdom"
 msgstr "Inglaterra"
-
-msgid "United States"
-msgstr "Estados Unidos"
-
-msgid "United States (es)"
-msgstr "Estados Unidos (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"
