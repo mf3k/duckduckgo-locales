@@ -79,6 +79,11 @@ msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
 msgstr "การค้นหา %s%s%s พันล้านครั้ง"
 
+#. The placeholder here will be a bold number. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "%s%s%s reviews"
+msgstr "%s%s%s รีวิว"
+
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
@@ -190,16 +195,23 @@ msgid "Add DuckDuckGo as a search engine"
 msgstr "เพิ่ม DuckDuckGo เป็นเครื่องมือค้นหา"
 
 msgid "Add DuckDuckGo to %s"
-msgstr "เพิ่ม DuckDuckGo ไป %s"
+msgstr "เพิ่ม DuckDuckGo เข้าไปใน %s"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "เพิ่มกล่องค้นหา %s บนเว็บไซต์ของคุณ"
 
+msgid ""
+"Add privacy protection to your browser. Search privately, block trackers, "
+"secure connections, and more — all for free."
+msgstr ""
+"เพิ่มการปกป้องข้อมูลส่วนตัวในเบราว์เซอร์ของคุณ ค้นหาแบบมีความเป็นส่วนตัว, บล็อกตัวติดตาม, "
+"เชื่อมต่ออย่างปลอดภัย และอื่น ๆ อีกมากมาย - ฟรี ทั้งหมดนี้เลย"
+
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
-msgstr "เพิ่มใน %s"
+msgstr "เพิ่มเข้าไปใน %s"
 
 msgid "Add to Home Screen"
 msgstr "เพิ่มไปที่หน้าจอหลัก"
@@ -375,6 +387,11 @@ msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "เปิดคำตอบทันทีที่เกี่ยวข้องโดยอัตโนมัติ"
 
+#. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "Average rating: %s out of 5"
+msgstr "คะแนนเฉลี่ย: %s จาก 5"
+
 msgid "Avoid eavesdropping and enhance wi-fi security."
 msgstr ""
 
@@ -490,7 +507,7 @@ msgstr "บล็อกการติดตาม"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
-msgstr "บล็อกโฆษณาที่ติตามคุณ"
+msgstr "บล็อกตัวติดตามโฆษณา"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
@@ -520,6 +537,9 @@ msgstr "บราซิล"
 msgctxt "color"
 msgid "Brown"
 msgstr "สีน้ำตาล"
+
+msgid "Browse as Usual"
+msgstr "ท่องเน็ตตามปกติ"
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
@@ -862,6 +882,18 @@ msgstr "ปิดหน้าต่าง"
 msgid "Closed"
 msgstr "ปิด"
 
+msgctxt "maps_places"
+msgid "Closed"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes soon"
+msgstr ""
+
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
 msgstr "บันทึกในระบบ"
@@ -1178,6 +1210,14 @@ msgstr "DuckDuckGo !Bang ใหม่"
 msgid "DuckDuckGo Privacy"
 msgstr "นโยบายของ DuckDuckGo"
 
+#. 'DuckDuckGo Privacy Essentials' is a trademark and should NOT be translated.
+msgid ""
+"DuckDuckGo Privacy Essentials protects your privacy, wherever the Internet "
+"takes you."
+msgstr ""
+"DuckDuckGo Privacy Essentials ปกป้องความเป็นส่วนตัวของคุณ "
+"ไม่ว่าอินเทอร์เน็ตจะพาคุณไปที่ใดก็ตาม"
+
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
 msgstr "กล่องค้นหา DuckDuckGo"
@@ -1247,6 +1287,9 @@ msgctxt "welcome message"
 msgid "Encrypts connections when possible"
 msgstr ""
 
+msgid "Enjoy Peace of Mind"
+msgstr "เพลิดเพลินด้วยความสบายใจ"
+
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "เข้าสู่ %shttps://duckduckgo.com%s"
 
@@ -1304,6 +1347,10 @@ msgid ""
 "there in the open, unencrypted, provided you know the key."
 msgstr ""
 "แม้ว่าคุณจะสามารถดำเนินการได้ตั้งแต่ข้อมูลทั้งหมดที่มีในการเปิดและไม่ได้เข้ารหัส มีเพียงคุณที่รู้รหัส"
+
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1631,6 +1678,9 @@ msgctxt "cloudsave"
 msgid "How is it anonymous?"
 msgstr "มันเป็นวิธีการที่ไม่ระบุชื่อ?"
 
+msgid "How it Works"
+msgstr "วิธีการทำงาน"
+
 msgctxt "forecast"
 msgid "Humidity"
 msgstr ""
@@ -1864,6 +1914,9 @@ msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
 msgstr ""
 
+msgid "Just a few clicks to install, and you're ready to go. It's that easy."
+msgstr "ติดตั้งง่าย เพียงไม่กี่คลิก ก็พร้อมใช้งานได้เลย ง่าย ๆ แค่นี้เอง"
+
 msgid "Keep in Touch"
 msgstr "ติดต่อเรา"
 
@@ -1872,7 +1925,7 @@ msgstr "รักษาประวัติการค้นหาให้เ
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Keep your search history private."
-msgstr "รักษาประวัติการค้นหาให้เป็นส่วนตัว"
+msgstr "เก็บประวัติการค้นหาของคุณไว้เป็นความลับส่วนตัว"
 
 #. Section heading (for right column).
 msgctxt "settings"
@@ -2216,6 +2269,9 @@ msgstr "อื่นๆ ที่ %s"
 msgid "More from"
 msgstr "อื่นๆ จาก"
 
+msgid "More on %s "
+msgstr ""
+
 #. A link to get more results from a particular domain.
 msgid "More results"
 msgstr "ผลลัพธ์ที่มากขึ้น"
@@ -2483,6 +2539,10 @@ msgid ""
 "Parameters%s page."
 msgstr ""
 
+msgctxt "maps_places"
+msgid "Open"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 
@@ -2537,11 +2597,19 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "เปิดใช้บริการเว็บไซต์ภายนอก"
 
+msgctxt "maps_places"
+msgid "Opens"
+msgstr ""
+
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "เปิดผลการค้นหาในหน้าต่างใหม่/แท็บใหม่"
+
+msgctxt "maps_places"
+msgid "Opens soon"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "Optional"
@@ -2596,6 +2664,10 @@ msgstr ""
 msgctxt "showcase_traffic"
 msgid "Over 15 Billion anonymous searches."
 msgstr "มากกว่า 15 พันล้านครั้งของการค้นหาแบบส่วนตัว"
+
+msgctxt "maps_places"
+msgid "Overview"
+msgstr ""
 
 #. Instant Answer Tab Name
 msgid "Packages"
@@ -2687,6 +2759,9 @@ msgstr "หมายเลขโทรศัพท์"
 
 msgctxt "image-type"
 msgid "Photograph"
+msgstr ""
+
+msgid "Photos on %s"
 msgstr ""
 
 msgctxt "feedback form"
@@ -2819,7 +2894,7 @@ msgid "Privacy in Your Inbox"
 msgstr ""
 
 msgid "Privacy, simplified."
-msgstr "ทำให้ความเป็นส่วนตัวเป็นเรื่องง่าย"
+msgstr "ความเป็นส่วนตัวที่แสนง่าย"
 
 msgid "Private Search"
 msgstr ""
@@ -3056,6 +3131,10 @@ msgstr "ธีมย้อนยุค"
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Reviews"
 msgstr "รีวิว"
+
+msgctxt "maps_places"
+msgid "Reviews"
+msgstr ""
 
 msgid "Romania"
 msgstr ""
@@ -3389,9 +3468,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "แสดงข้อมูล Bookmarklet และการตั้งค่า"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "แสดงน้อยลง"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3723,7 +3810,7 @@ msgstr "ทวงคืนความเป็นส่วนตัวของ
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Take control of your personal data."
-msgstr ""
+msgstr "คุณควบคุมข้อมูลส่วนตัวของคุณเองได้"
 
 msgctxt "SERP footer content"
 msgid "Take our Privacy Crash Course and learn about online privacy."
@@ -3870,6 +3957,9 @@ msgstr "หน้านี้ต้องการ %s"
 msgid "This page requires Javascript to function."
 msgstr "เว็บไซต์นี้ต้องการใช้  Javascript"
 
+msgid "This video is not yet able to be watched here. You can watch it on %s."
+msgstr ""
+
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
 msgstr ""
@@ -3908,6 +3998,10 @@ msgstr "แปลภาษา"
 msgctxt "image-type"
 msgid "Transparent"
 msgstr ""
+
+msgctxt "homepage ATB social proof"
+msgid "Trusted by %smillions%s worldwide"
+msgstr "ได้รับความไว้วางใจจาก%sหลายล้านคน%sทั่วโลก"
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -4116,6 +4210,9 @@ msgstr "ต้องการที่จะพัฒนาคำตอบทั
 msgid "Watch Here"
 msgstr "ดูที่นี่"
 
+msgid "Watch on %s"
+msgstr ""
+
 msgid "Watch on YouTube"
 msgstr "ดูบน YouTube"
 
@@ -4218,8 +4315,8 @@ msgid ""
 "We don’t store your search history. We therefore have nothing to sell to "
 "advertisers that track you across the Internet."
 msgstr ""
-"เราไม่เก็บประวัติการค้นหาของคุณ "
-"ดังนั้น เราจึงไม่มีอะไรที่จะขายให้กับผู้ลงโฆษณาที่ติดตามคุณผ่านทางอินเทอร์เน็ต"
+"เราไม่เก็บประวัติการค้นหาของคุณ ดังนั้น "
+"เราจึงไม่มีอะไรที่จะขายให้กับผู้ลงโฆษณาที่ติดตามคุณผ่านทางอินเทอร์เน็ต"
 
 msgctxt "homepage onboarding"
 msgid "We don’t track you in or out of private browsing mode."
@@ -4240,6 +4337,10 @@ msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
 msgstr ""
 
+msgid ""
+"We'll block hidden trackers and encrypt connections to keep you more private."
+msgstr "เราจะบล็อกเครือข่ายติดตามที่ซ่อนอยู่และเข้ารหัสการเชื่อมต่อเพื่อให้คุณมีความเป็นส่วนตัวมากขึ้น"
+
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
 msgstr ""
@@ -4256,6 +4357,10 @@ msgctxt "feedback form"
 msgid "Web Links"
 msgstr "เว็บลิงค์"
 
+msgctxt "maps_places"
+msgid "Website"
+msgstr ""
+
 msgctxt "settings"
 msgid "Welcome Message"
 msgstr ""
@@ -4267,6 +4372,10 @@ msgstr "ยินดีต้อนรับกลับมา"
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
 msgstr "เรายินดีต้องรับคุณ เข้าสู่ Duck"
+
+msgctxt "maps_places"
+msgid "What People Say"
+msgstr ""
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -4449,7 +4558,7 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr "ข้อมูลของคุณไม่ควรถูกนำไปขาย"
+msgstr "ข้อมูลของคุณไม่ได้มีไว้ขาย"
 
 msgctxt "newsletter email collection"
 msgid ""

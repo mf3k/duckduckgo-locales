@@ -79,6 +79,11 @@ msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
 msgstr ""
 
+#. The placeholder here will be a bold number. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "%s%s%s reviews"
+msgstr ""
+
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
@@ -196,6 +201,11 @@ msgstr "Voeg DuckDuckGo toe aan %s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "Voeg een %s zoekvak toe aan jouw site!"
+
+msgid ""
+"Add privacy protection to your browser. Search privately, block trackers, "
+"secure connections, and more — all for free."
+msgstr ""
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
@@ -377,6 +387,11 @@ msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "Open automatisch relevante Instant Antwoorden"
 
+#. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "Average rating: %s out of 5"
+msgstr ""
+
 msgid "Avoid eavesdropping and enhance wi-fi security."
 msgstr "Vermijd afluisteren en verbeter de wi-fi beveiliging."
 
@@ -522,6 +537,9 @@ msgstr "Brazilië"
 msgctxt "color"
 msgid "Brown"
 msgstr "Bruin"
+
+msgid "Browse as Usual"
+msgstr ""
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
@@ -881,6 +899,18 @@ msgstr "Venster sluiten"
 msgid "Closed"
 msgstr "Gesloten"
 
+msgctxt "maps_places"
+msgid "Closed"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes soon"
+msgstr ""
+
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
 msgstr ""
@@ -1199,6 +1229,12 @@ msgstr "DuckDuckGo nieuwe !Bang"
 msgid "DuckDuckGo Privacy"
 msgstr ""
 
+#. 'DuckDuckGo Privacy Essentials' is a trademark and should NOT be translated.
+msgid ""
+"DuckDuckGo Privacy Essentials protects your privacy, wherever the Internet "
+"takes you."
+msgstr ""
+
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
 msgstr "DuckDuckGo Zoekvak"
@@ -1270,6 +1306,9 @@ msgctxt "welcome message"
 msgid "Encrypts connections when possible"
 msgstr ""
 
+msgid "Enjoy Peace of Mind"
+msgstr ""
+
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "%shttps://duckduckgo.com%s invoeren"
 
@@ -1331,6 +1370,10 @@ msgid ""
 msgstr ""
 "Zelfs al zou je dat kunnen doen heeft het geen enkel nut, aangezien alle "
 "informatie ongeëncrypteerd en openbaar is als je de sleutel kent."
+
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1660,6 +1703,9 @@ msgctxt "cloudsave"
 msgid "How is it anonymous?"
 msgstr "Hoe is het anoniem?"
 
+msgid "How it Works"
+msgstr ""
+
 msgctxt "forecast"
 msgid "Humidity"
 msgstr ""
@@ -1900,6 +1946,9 @@ msgstr ""
 
 msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
+msgstr ""
+
+msgid "Just a few clicks to install, and you're ready to go. It's that easy."
 msgstr ""
 
 msgid "Keep in Touch"
@@ -2254,6 +2303,9 @@ msgstr "Meer op %s"
 msgid "More from"
 msgstr "Meer over"
 
+msgid "More on %s "
+msgstr ""
+
 #. A link to get more results from a particular domain.
 msgid "More results"
 msgstr "Meer resultaten"
@@ -2527,6 +2579,10 @@ msgstr ""
 "Alleen de instellingen die u hebt gewijzigd. Ze worden uitgebreid weegegeven "
 "op de %sURL Parameters%s pagina."
 
+msgctxt "maps_places"
+msgid "Open"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Open %sMenu > Instellingen > Zoek %s en kies DuckDuckGo!"
 
@@ -2581,11 +2637,19 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "Openen op derde-partij website"
 
+msgctxt "maps_places"
+msgid "Opens"
+msgstr ""
+
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "Open het resultaat in een nieuw venster/tabblad"
+
+msgctxt "maps_places"
+msgid "Opens soon"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "Optional"
@@ -2640,6 +2704,10 @@ msgstr ""
 
 msgctxt "showcase_traffic"
 msgid "Over 15 Billion anonymous searches."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Overview"
 msgstr ""
 
 #. Instant Answer Tab Name
@@ -2733,6 +2801,9 @@ msgstr "Telefoonnummer"
 msgctxt "image-type"
 msgid "Photograph"
 msgstr "Foto"
+
+msgid "Photos on %s"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "Pick a category"
@@ -3104,6 +3175,10 @@ msgstr ""
 msgid "Reviews"
 msgstr "Recensies"
 
+msgctxt "maps_places"
+msgid "Reviews"
+msgstr ""
+
 msgid "Romania"
 msgstr "Roemenië"
 
@@ -3447,9 +3522,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Toon Bookmarklet en Instellingen"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Toon Minder"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3937,6 +4020,9 @@ msgstr "Deze pagina vereist %s"
 msgid "This page requires Javascript to function."
 msgstr "Deze pagina heeft javascript nodig om te werken."
 
+msgid "This video is not yet able to be watched here. You can watch it on %s."
+msgstr ""
+
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
 msgstr ""
@@ -3976,6 +4062,10 @@ msgstr "Vertaal"
 msgctxt "image-type"
 msgid "Transparent"
 msgstr "Transparant"
+
+msgctxt "homepage ATB social proof"
+msgid "Trusted by %smillions%s worldwide"
+msgstr ""
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -4192,6 +4282,9 @@ msgstr "Wil je een instant answer ontwikkelen?"
 msgid "Watch Here"
 msgstr "Bekijk Hier"
 
+msgid "Watch on %s"
+msgstr ""
+
 msgid "Watch on YouTube"
 msgstr "Bekijk op YouTube"
 
@@ -4326,6 +4419,10 @@ msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
 msgstr ""
 
+msgid ""
+"We'll block hidden trackers and encrypt connections to keep you more private."
+msgstr ""
+
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
 msgstr "We zijn blij dat je aan de Duck Side bent gekomen."
@@ -4342,6 +4439,10 @@ msgctxt "feedback form"
 msgid "Web Links"
 msgstr "Weblinks"
 
+msgctxt "maps_places"
+msgid "Website"
+msgstr ""
+
 msgctxt "settings"
 msgid "Welcome Message"
 msgstr ""
@@ -4353,6 +4454,10 @@ msgstr "Welkom terug!"
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
 msgstr "Welkom op de Duck kant!"
+
+msgctxt "maps_places"
+msgid "What People Say"
+msgstr ""
 
 msgctxt "new user poll"
 msgid "What brought you back today?"

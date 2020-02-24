@@ -79,6 +79,11 @@ msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
 msgstr ""
 
+#. The placeholder here will be a bold number. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "%s%s%s reviews"
+msgstr ""
+
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
@@ -196,6 +201,11 @@ msgstr "הוסף את DuckDuckGo ל%s"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "לאתר שלך! %s הוסף/י תיבת חיפוש של"
+
+msgid ""
+"Add privacy protection to your browser. Search privately, block trackers, "
+"secure connections, and more — all for free."
+msgstr ""
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
@@ -375,6 +385,11 @@ msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "פתח באופן אוטומטי תשובות מיידיות רלוונטיות"
 
+#. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "Average rating: %s out of 5"
+msgstr ""
+
 msgid "Avoid eavesdropping and enhance wi-fi security."
 msgstr ""
 
@@ -519,6 +534,9 @@ msgstr "ברזיל"
 
 msgctxt "color"
 msgid "Brown"
+msgstr ""
+
+msgid "Browse as Usual"
 msgstr ""
 
 msgctxt "settingsvalue"
@@ -871,6 +889,18 @@ msgstr "סגור חלון"
 msgid "Closed"
 msgstr "סגור"
 
+msgctxt "maps_places"
+msgid "Closed"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes soon"
+msgstr ""
+
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
 msgstr "שמירה בענן"
@@ -1189,6 +1219,12 @@ msgstr "!חפשזר חדש בDuckDuckGo"
 msgid "DuckDuckGo Privacy"
 msgstr "DuckDuckGoפרטיות ב"
 
+#. 'DuckDuckGo Privacy Essentials' is a trademark and should NOT be translated.
+msgid ""
+"DuckDuckGo Privacy Essentials protects your privacy, wherever the Internet "
+"takes you."
+msgstr ""
+
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
 msgstr "DuckDuckGo תיבת החיפוש של"
@@ -1260,6 +1296,9 @@ msgctxt "welcome message"
 msgid "Encrypts connections when possible"
 msgstr ""
 
+msgid "Enjoy Peace of Mind"
+msgstr ""
+
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "הכנסו ל-%shttps://duckduckgo.com%s"
 
@@ -1320,6 +1359,10 @@ msgid ""
 msgstr ""
 "גם אם היית יכול/ה לעשות את זה, אין טעם כי כל המידע נמצא ככה, פתוח, לא מוצפן, "
 "בתנאי שאת/ה יודע/ת את הסיסמא."
+
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1648,6 +1691,9 @@ msgctxt "cloudsave"
 msgid "How is it anonymous?"
 msgstr "איך זה אנונימי, בדיוק?"
 
+msgid "How it Works"
+msgstr ""
+
 msgctxt "forecast"
 msgid "Humidity"
 msgstr ""
@@ -1887,6 +1933,9 @@ msgstr ""
 
 msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
+msgstr ""
+
+msgid "Just a few clicks to install, and you're ready to go. It's that easy."
 msgstr ""
 
 msgid "Keep in Touch"
@@ -2241,6 +2290,9 @@ msgstr "עוד אצל %s"
 msgid "More from"
 msgstr "עוד מתוך"
 
+msgid "More on %s "
+msgstr ""
+
 #. A link to get more results from a particular domain.
 msgid "More results"
 msgstr "תוצאות נוספות"
@@ -2511,6 +2563,10 @@ msgid ""
 msgstr ""
 "רק ההגדרות ששינית נשמרות. השינויים מפורטים בעמוד ה %sפרמטרים של URL%s ."
 
+msgctxt "maps_places"
+msgid "Open"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 
@@ -2565,11 +2621,19 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "פתח באתר צד-שלישי"
 
+msgctxt "maps_places"
+msgid "Opens"
+msgstr ""
+
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "פתח/י תוצאות בכרטיסיה חדשה/חלון חדש"
+
+msgctxt "maps_places"
+msgid "Opens soon"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "Optional"
@@ -2624,6 +2688,10 @@ msgstr ""
 
 msgctxt "showcase_traffic"
 msgid "Over 15 Billion anonymous searches."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Overview"
 msgstr ""
 
 #. Instant Answer Tab Name
@@ -2716,6 +2784,9 @@ msgstr "מספר טלפון"
 
 msgctxt "image-type"
 msgid "Photograph"
+msgstr ""
+
+msgid "Photos on %s"
 msgstr ""
 
 msgctxt "feedback form"
@@ -3088,6 +3159,10 @@ msgstr "רטרו"
 msgid "Reviews"
 msgstr "ביקורות"
 
+msgctxt "maps_places"
+msgid "Reviews"
+msgstr ""
+
 msgid "Romania"
 msgstr ""
 
@@ -3421,9 +3496,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "הראה סימנייה והגדרות מידע"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "הצג פחות"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3906,6 +3989,9 @@ msgstr "עמוד זה דורש %s"
 msgid "This page requires Javascript to function."
 msgstr "העמוד הבא מחייב תמיכה ב-Javascript."
 
+msgid "This video is not yet able to be watched here. You can watch it on %s."
+msgstr ""
+
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
 msgstr ""
@@ -3943,6 +4029,10 @@ msgstr "תרגמו"
 
 msgctxt "image-type"
 msgid "Transparent"
+msgstr ""
+
+msgctxt "homepage ATB social proof"
+msgid "Trusted by %smillions%s worldwide"
 msgstr ""
 
 #. Alternate header text for front page
@@ -4155,6 +4245,9 @@ msgstr "רוצה לפתח תוצאות?"
 msgid "Watch Here"
 msgstr "צפה כאן"
 
+msgid "Watch on %s"
+msgstr ""
+
 msgid "Watch on YouTube"
 msgstr "צפה באתר YouTube"
 
@@ -4281,6 +4374,10 @@ msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
 msgstr ""
 
+msgid ""
+"We'll block hidden trackers and encrypt connections to keep you more private."
+msgstr ""
+
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
 msgstr ""
@@ -4297,6 +4394,10 @@ msgctxt "feedback form"
 msgid "Web Links"
 msgstr "קישורים ברשת"
 
+msgctxt "maps_places"
+msgid "Website"
+msgstr ""
+
 msgctxt "settings"
 msgid "Welcome Message"
 msgstr ""
@@ -4308,6 +4409,10 @@ msgstr ""
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
 msgstr "ברוך הבא לDuck Side!"
+
+msgctxt "maps_places"
+msgid "What People Say"
+msgstr ""
 
 msgctxt "new user poll"
 msgid "What brought you back today?"

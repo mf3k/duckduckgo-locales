@@ -79,6 +79,11 @@ msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
 msgstr "%s%s%s బిలియన్ అన్వేషణలు"
 
+#. The placeholder here will be a bold number. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "%s%s%s reviews"
+msgstr ""
+
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
 msgstr ""
@@ -200,6 +205,11 @@ msgstr "DuckDuckGo ని %sకు  యాడ్  చేసుకోండి"
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
 msgstr "మీ సైటులో %s సెర్చ్ బాక్సని పెట్టుకోండి!"
+
+msgid ""
+"Add privacy protection to your browser. Search privately, block trackers, "
+"secure connections, and more — all for free."
+msgstr ""
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
@@ -386,6 +396,11 @@ msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "సంబంధిత తక్షణ జవాబులను ఆటోమెటిగ్గా తెరుస్తుంది"
 
+#. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "Average rating: %s out of 5"
+msgstr ""
+
 msgid "Avoid eavesdropping and enhance wi-fi security."
 msgstr "పొంచి వినుటను అరికట్టండి మరియు మీ వైఫై సెక్యూరిటీ ని పెంచుకోండి"
 
@@ -531,6 +546,9 @@ msgstr "బ్రెజిల్"
 msgctxt "color"
 msgid "Brown"
 msgstr "బ్రౌన్"
+
+msgid "Browse as Usual"
+msgstr ""
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
@@ -877,6 +895,18 @@ msgstr "కిటికీని మూసివేయి."
 msgid "Closed"
 msgstr "మూసివేయబడినది"
 
+msgctxt "maps_places"
+msgid "Closed"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Closes soon"
+msgstr ""
+
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
 msgid "Cloud Save"
 msgstr "క్లౌడ్ సేవ్"
@@ -1194,6 +1224,12 @@ msgstr "DuckDuckGo కొత్త !బ్యాంగ్"
 msgid "DuckDuckGo Privacy"
 msgstr "DuckDuckGo గోప్యత"
 
+#. 'DuckDuckGo Privacy Essentials' is a trademark and should NOT be translated.
+msgid ""
+"DuckDuckGo Privacy Essentials protects your privacy, wherever the Internet "
+"takes you."
+msgstr ""
+
 #  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 #, fuzzy
@@ -1269,6 +1305,9 @@ msgctxt "welcome message"
 msgid "Encrypts connections when possible"
 msgstr ""
 
+msgid "Enjoy Peace of Mind"
+msgstr ""
+
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr ""
 
@@ -1327,6 +1366,10 @@ msgid ""
 msgstr ""
 "మీరు అలా చేయగలిగినప్పటికీ ప్రయోజనం ఉండదు ఎందుకంటే మీట మీ వద్ద ఉంది అనుకుంటే సమాచారమంతా బహిర్గతంగా, "
 "అరక్షితంగా ఉంటుంది."
+
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1654,6 +1697,9 @@ msgctxt "cloudsave"
 msgid "How is it anonymous?"
 msgstr "ఇది ఏవిధంగా అజ్ఞాతంగా ఉంచుతుంది?"
 
+msgid "How it Works"
+msgstr ""
+
 msgctxt "forecast"
 msgid "Humidity"
 msgstr ""
@@ -1888,6 +1934,9 @@ msgstr ""
 
 msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
+msgstr ""
+
+msgid "Just a few clicks to install, and you're ready to go. It's that easy."
 msgstr ""
 
 msgid "Keep in Touch"
@@ -2242,6 +2291,9 @@ msgstr "%s వద్ద మరింత"
 msgid "More from"
 msgstr "దీని నుండి మరిన్ని"
 
+msgid "More on %s "
+msgstr ""
+
 #. A link to get more results from a particular domain.
 msgid "More results"
 msgstr "మరిన్ని ఫలితాలు"
@@ -2515,6 +2567,10 @@ msgid ""
 "Parameters%s page."
 msgstr ""
 
+msgctxt "maps_places"
+msgid "Open"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 
@@ -2569,11 +2625,19 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "మూడో-పక్షపు సైటులో తెరువు"
 
+msgctxt "maps_places"
+msgid "Opens"
+msgstr ""
+
 #. http://i.imgur.com/iCNwHqR.png  
 #. This setting controls how results open when you click on them. 
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "ఫలితాలను కొత్త కిటికీ/ట్యాబులో తెరుస్తుంది"
+
+msgctxt "maps_places"
+msgid "Opens soon"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "Optional"
@@ -2624,6 +2688,10 @@ msgstr ""
 
 msgctxt "showcase_traffic"
 msgid "Over 15 Billion anonymous searches."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Overview"
 msgstr ""
 
 #. Instant Answer Tab Name
@@ -2716,6 +2784,9 @@ msgstr ""
 
 msgctxt "image-type"
 msgid "Photograph"
+msgstr ""
+
+msgid "Photos on %s"
 msgstr ""
 
 msgctxt "feedback form"
@@ -3088,6 +3159,10 @@ msgstr "రెట్రో"
 msgid "Reviews"
 msgstr "సమీక్షలు"
 
+msgctxt "maps_places"
+msgid "Reviews"
+msgstr ""
+
 msgid "Romania"
 msgstr ""
 
@@ -3422,9 +3497,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "తక్కువ చూపించు"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3905,6 +3988,9 @@ msgstr "ఈ పేజీకి %s అవసరం"
 msgid "This page requires Javascript to function."
 msgstr "ఈ పుట పనిచేయాలంటే జావాస్క్రిప్టు అవసరం."
 
+msgid "This video is not yet able to be watched here. You can watch it on %s."
+msgstr ""
+
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
 msgstr ""
@@ -3943,6 +4029,10 @@ msgstr "అనువదించండి"
 msgctxt "image-type"
 msgid "Transparent"
 msgstr "పారదర్శకం"
+
+msgctxt "homepage ATB social proof"
+msgid "Trusted by %smillions%s worldwide"
+msgstr ""
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -4151,6 +4241,9 @@ msgstr "ఒక తక్షణ జవాబును అమలుపరుద్
 msgid "Watch Here"
 msgstr "ఇక్కడ చూడండి"
 
+msgid "Watch on %s"
+msgstr ""
+
 msgid "Watch on YouTube"
 msgstr "యూట్యూబ్​లో వీక్షించండి"
 
@@ -4287,6 +4380,10 @@ msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
 msgstr "ఇటువంటి ప్రతిస్పందనను డక్ డక్ గో ని అభివృద్ధి చేయటానికి ఉపయోగిస్తాం. ఇది చాల ఉపయోగపడుతుంది."
 
+msgid ""
+"We'll block hidden trackers and encrypt connections to keep you more private."
+msgstr ""
+
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
 msgstr "మీరు డక్ సరసన ఉన్నందుకు మేము గర్వపడుతున్నాం"
@@ -4303,6 +4400,10 @@ msgctxt "feedback form"
 msgid "Web Links"
 msgstr "అంతర్జాల లింక్లు"
 
+msgctxt "maps_places"
+msgid "Website"
+msgstr ""
+
 msgctxt "settings"
 msgid "Welcome Message"
 msgstr "స్వాగత సందేశం"
@@ -4314,6 +4415,10 @@ msgstr "పునఃస్వాగతం!"
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
 msgstr "డక్ సరసకు స్వాగతం!"
+
+msgctxt "maps_places"
+msgid "What People Say"
+msgstr ""
 
 msgctxt "new user poll"
 msgid "What brought you back today?"

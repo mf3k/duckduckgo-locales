@@ -5,19 +5,20 @@
 # locale: nb_NO
 # date: 2019-01-16 23:46-0500
 #
+# 7rst1 <sssandum@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: DuckDuckGo-Translation-0.000\n"
 "POT-Creation-Date: 2019-01-16 23:42-0500\n"
-"PO-Revision-Date: 2019-11-12 23:08+0100\n"
-"Last-Translator: Community\n"
-"Language-Team: DuckDuckGo Community <community@duckduckgo.com>\n"
+"PO-Revision-Date: 2020-02-13 23:31+0100\n"
+"Last-Translator: 7rst1 <sssandum@gmail.com>\n"
+"Language-Team: Norwegian Bokmal <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.2\n"
 
 msgid "!Bang Search Shortcuts"
 msgstr "!Bang Søkesnarveier"
@@ -45,7 +46,7 @@ msgstr "%s for %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "%s timer siden"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
@@ -79,6 +80,11 @@ msgstr "%s oss."
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
 msgstr "%s%s%s Milliarder søk"
+
+#. The placeholder here will be a bold number. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "%s%s%s reviews"
+msgstr "%s%s%s anmeldelser"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
@@ -123,7 +129,7 @@ msgstr "1 dag siden"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "1 time siden"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
@@ -195,12 +201,19 @@ msgid "Add DuckDuckGo as a search engine"
 msgstr "Legg til DuckDuckGo som søkemotor"
 
 msgid "Add DuckDuckGo to %s"
-msgstr "Legg DuckDuckGo til %s"
+msgstr "Legg til DuckDuckGo i %s"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site!
 msgid "Add a %s search box to your site!"
 msgstr "Legg til et %s søkefelt på siden din!"
+
+msgid ""
+"Add privacy protection to your browser. Search privately, block trackers, "
+"secure connections, and more — all for free."
+msgstr ""
+"Legg til personvernbeskyttelse i nettleseren din. Søk privat, blokker "
+"sporere, sikre tilkoblinger med mer – helt gratis."
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
@@ -363,7 +376,7 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
-msgstr "Hos DuckDuckGo, er vi enige."
+msgstr "Hos DuckDuckGo deler vi denne oppfatningen."
 
 msgid "Audio"
 msgstr "Lyd"
@@ -383,6 +396,11 @@ msgstr "Automatisk forslag"
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "Åpner beslektede Øyeblikkelige svar automatisk"
+
+#. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
+msgctxt "homepage ATB social proof"
+msgid "Average rating: %s out of 5"
+msgstr "Gjennomsnittlig vurdering: %s av 5"
 
 msgid "Avoid eavesdropping and enhance wi-fi security."
 msgstr "Unngå smuglytting og forbedre Wi-Fi-sikkerhet."
@@ -499,7 +517,7 @@ msgstr "Blokker sporing"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
-msgstr "Blokker reklame sporing."
+msgstr "Blokker sporere med reklame."
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
@@ -529,6 +547,9 @@ msgstr "Brasil"
 msgctxt "color"
 msgid "Brown"
 msgstr "Brun"
+
+msgid "Browse as Usual"
+msgstr "Surf som vanlig"
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
@@ -889,6 +910,18 @@ msgstr "Lukk vindu."
 msgid "Closed"
 msgstr "Lukket"
 
+msgctxt "maps_places"
+msgid "Closed"
+msgstr "Stengt"
+
+msgctxt "maps_places"
+msgid "Closes"
+msgstr "Stenger"
+
+msgctxt "maps_places"
+msgid "Closes soon"
+msgstr "Stenger snart"
+
 #. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud.
 msgid "Cloud Save"
 msgstr "Skylagring"
@@ -1207,6 +1240,14 @@ msgstr "DuckDuckGo Ny !Bang"
 msgid "DuckDuckGo Privacy"
 msgstr "DuckDuckGo Personvern"
 
+#. 'DuckDuckGo Privacy Essentials' is a trademark and should NOT be translated.
+msgid ""
+"DuckDuckGo Privacy Essentials protects your privacy, wherever the Internet "
+"takes you."
+msgstr ""
+"DuckDuckGo Privacy Essentials beskytter privatlivet ditt, uansett hvor "
+"Internett tar deg."
+
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
 msgstr "DuckDuckGo Søkefelt"
@@ -1278,6 +1319,9 @@ msgctxt "welcome message"
 msgid "Encrypts connections when possible"
 msgstr "Krypterer tilkoblinger når mulig"
 
+msgid "Enjoy Peace of Mind"
+msgstr "Ta det med ro"
+
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "Skriv inn %shttps://duckduckgo.com%s"
 
@@ -1339,6 +1383,10 @@ msgid ""
 msgstr ""
 "Selv om du kunne gjort det, er det meningsløst siden all informasjonen er "
 "fritt tilgjengelig, ukryptert, gitt at du kjenner nøkkelen."
+
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr "Utvid kartet"
 
 msgctxt "Report image modal"
 msgid "Explicit content"
@@ -1670,6 +1718,9 @@ msgctxt "cloudsave"
 msgid "How is it anonymous?"
 msgstr "Hvordan er det anonymt?"
 
+msgid "How it Works"
+msgstr "Slik fungerer det"
+
 msgctxt "forecast"
 msgid "Humidity"
 msgstr "Fuktighet"
@@ -1916,6 +1967,9 @@ msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
 msgstr "Bli med i vår $500,000 personvernsutfordring"
 
+msgid "Just a few clicks to install, and you're ready to go. It's that easy."
+msgstr "Kun et par klikk for å installere, og du er klar. Så enkelt er det."
+
 msgid "Keep in Touch"
 msgstr "Hold kontakten"
 
@@ -1924,7 +1978,7 @@ msgstr "Behold søkehistorikken din privat og minimer målrettet annonsering."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Keep your search history private."
-msgstr "Hold søkehistorikken din privat."
+msgstr "La søkehistorikken din forbli privat."
 
 #. Section heading (for right column).
 msgctxt "settings"
@@ -2268,6 +2322,9 @@ msgstr "Mer hos %s "
 msgid "More from"
 msgstr "Mer hos"
 
+msgid "More on %s "
+msgstr "Mer hos %s"
+
 #. A link to get more results from a particular domain.
 msgid "More results"
 msgstr "Flere resultater"
@@ -2541,6 +2598,10 @@ msgstr ""
 "Bare innstillingene du har endret. De er spesifisert på %sURL-parameter"
 "%ssiden."
 
+msgctxt "maps_places"
+msgid "Open"
+msgstr "Åpen"
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Åpne %sMeny > Innstillinger > Søk %s og velg DuckDuckGo!"
 
@@ -2595,11 +2656,19 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "Åpne på tredjeparts nettsted"
 
+msgctxt "maps_places"
+msgid "Opens"
+msgstr "Åpner"
+
 #. http://i.imgur.com/iCNwHqR.png
 #. This setting controls how results open when you click on them.
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "Åpner søkeresultater i nye vinduer/faner"
+
+msgctxt "maps_places"
+msgid "Opens soon"
+msgstr "Åpner snart"
 
 msgctxt "feedback form"
 msgid "Optional"
@@ -2655,6 +2724,10 @@ msgstr "Over %s i DuckDuckGo personvernsdonasjoner."
 msgctxt "showcase_traffic"
 msgid "Over 15 Billion anonymous searches."
 msgstr "Over 15 milliarder anonyme søk."
+
+msgctxt "maps_places"
+msgid "Overview"
+msgstr "Oversikt"
 
 #. Instant Answer Tab Name
 msgid "Packages"
@@ -2747,6 +2820,9 @@ msgstr "Telefonnummer"
 msgctxt "image-type"
 msgid "Photograph"
 msgstr "Fotografi"
+
+msgid "Photos on %s"
+msgstr "Bilder på %s"
 
 msgctxt "feedback form"
 msgid "Pick a category"
@@ -3119,6 +3195,10 @@ msgstr "Gammeldags"
 msgid "Reviews"
 msgstr "Anmeldelser"
 
+msgctxt "maps_places"
+msgid "Reviews"
+msgstr "Anmeldelser"
+
 msgid "Romania"
 msgstr "Romania"
 
@@ -3461,9 +3541,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Vis bokmerkeapplikasjons- og innstillingsdata"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr "Vis detaljer"
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Vis mindre"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr "Vis liste"
 
 msgctxt "expand_text"
 msgid "Show More"
@@ -3799,7 +3887,7 @@ msgstr "Ta ditt personvern tilbake!"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Take control of your personal data."
-msgstr "Ta kontroll over dine personlige data."
+msgstr "Ta kontroll over personopplysningene dine."
 
 msgctxt "SERP footer content"
 msgid "Take our Privacy Crash Course and learn about online privacy."
@@ -3957,6 +4045,10 @@ msgstr "Denne siden krever %s"
 msgid "This page requires Javascript to function."
 msgstr "Denne siden krever Javascript for å fungere."
 
+msgid "This video is not yet able to be watched here. You can watch it on %s."
+msgstr ""
+"Videoen er ikke ennå i stand til å spilles av her. Du kan se den på %s."
+
 msgctxt "Lock icon next to HTTP search result"
 msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
 msgstr "Denne nettsiden bruker ikke en sikker og kryptert tilkobling (HTTPS)."
@@ -3997,6 +4089,10 @@ msgstr "Oversett"
 msgctxt "image-type"
 msgid "Transparent"
 msgstr "Gjennomsiktig"
+
+msgctxt "homepage ATB social proof"
+msgid "Trusted by %smillions%s worldwide"
+msgstr "Valgt av %smillioner%s verden over"
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -4212,6 +4308,9 @@ msgstr "Vil du utvikle et øyeblikkelig svar?"
 msgid "Watch Here"
 msgstr "Se her"
 
+msgid "Watch on %s"
+msgstr "Se på %s"
+
 msgid "Watch on YouTube"
 msgstr "Se på YouTube"
 
@@ -4278,7 +4377,7 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
-msgstr "Vi sporer ikke deg, men andre gjør."
+msgstr "Vi sporer deg ikke, men det gjør andre."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you, including private browsing mode."
@@ -4350,13 +4449,19 @@ msgstr ""
 "Vi bruker tilbakemeldinger som disse til å forbedre DuckDuckGo. Det hjelper "
 "veldig."
 
+msgid ""
+"We'll block hidden trackers and encrypt connections to keep you more private."
+msgstr ""
+"Vi blokkerer skjulte sporere og krypterer tilkoblinger for at du skal forbli "
+"privat."
+
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
 msgstr "Vi er beæret over å ha deg på «the Duck Side»"
 
 msgctxt "SERP footer content"
 msgid "We've got some more links for you!"
-msgstr "Vi har flere lenker til deg!"
+msgstr "Vi har noen flere lenker til deg!"
 
 #. Instant Answer Tab Name
 msgid "Weather"
@@ -4365,6 +4470,10 @@ msgstr "Vær"
 msgctxt "feedback form"
 msgid "Web Links"
 msgstr "Nettlenker"
+
+msgctxt "maps_places"
+msgid "Website"
+msgstr "Nettside"
 
 msgctxt "settings"
 msgid "Welcome Message"
@@ -4377,6 +4486,10 @@ msgstr "Velkommen tilbake!"
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
 msgstr "Velkommen til «the Duck Side»!"
+
+msgctxt "maps_places"
+msgid "What People Say"
+msgstr "Hva folk sier"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -4569,7 +4682,7 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr "Dine data bør ikke være til salgs."
+msgstr "Informasjonen din skal ikke være til salgs."
 
 msgctxt "newsletter email collection"
 msgid ""
