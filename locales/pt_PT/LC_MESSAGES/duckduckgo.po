@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DuckDuckGo-Translation-0.000\n"
 "POT-Creation-Date: 2019-01-16 23:42-0500\n"
-"PO-Revision-Date: 2019-11-08 11:36+0000\n"
+"PO-Revision-Date: 2019-12-03 14:13+0000\n"
 "Last-Translator: fr3aky <mf3k.wd@gmail.com>\n"
 "Language-Team: DuckDuckGo Community <community@duckduckgo.com>\n"
 "Language: pt_PT\n"
@@ -24,7 +24,7 @@ msgstr "!Bang — Atalhos de Pesquisa"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr "$800,000 em donativos de privacidade!"
+msgstr "$800,000 em donativos para a privacidade!"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
@@ -45,7 +45,7 @@ msgstr "%s para %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "há %s horas"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
@@ -62,23 +62,26 @@ msgctxt "maps_places"
 msgid "%s on %s"
 msgstr "%s no %s"
 
+#, fuzzy
 msgctxt "hackus"
 msgid "%s us."
 msgstr "%s nós."
 
 #. Part of the sentence: "Support <b>us.</b>"
+#, fuzzy
 msgctxt "supportus"
 msgid "%s us."
-msgstr "Nosso %s."
+msgstr "%s nos."
 
 #. Part of the sentence: "Use <b>us.</b>"
+#, fuzzy
 msgctxt "useus"
 msgid "%s us."
-msgstr "Nos %s."
+msgstr "%s-nos."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr "%s%s%s Mil Milhões de Pesquisas"
+msgstr "%s%s%s Biliões de Pesquisas"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
@@ -125,7 +128,7 @@ msgstr "há 1 dia"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "há 1 hora"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
@@ -1200,7 +1203,6 @@ msgstr "Robot do DuckDuckGo"
 
 #  Marked fuzzy because of translated trademark
 #. This is the title for the <a href="https://duckduckgo.com/feedback.html">feedback page</a>, used in the title bar of your browser and the title of your tabs.
-#, fuzzy
 msgid "DuckDuckGo Feedback"
 msgstr "Feedback"
 
@@ -1214,9 +1216,8 @@ msgstr "Nova !Bang do DuckDuckGo"
 
 #  Marked fuzzy because of translated trademark
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/privacy.html">privacy page</a>.
-#, fuzzy
 msgid "DuckDuckGo Privacy"
-msgstr "Privacidade"
+msgstr "Privacidade do DuckDuckGo"
 
 #. Inside your browser title bar or tab title when visiting the <a href="https://duckduckgo.com/search_box.html">search box page</a>.
 msgid "DuckDuckGo Search Box"
@@ -3253,9 +3254,8 @@ msgid "Search Current Map Area"
 msgstr "Pesquisar na Área Actual do Mapa"
 
 #  Marked fuzzy because of translated trademark
-#, fuzzy
 msgid "Search DuckDuckGo"
-msgstr "Procurar no pato"
+msgstr "Pesquise com o DuckDuckGo"
 
 #. search for a place near the user's location
 msgctxt "vertical_map"
